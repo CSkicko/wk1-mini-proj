@@ -1,0 +1,16 @@
+nav {
+    padding: 5px;
+    background-color: green;
+    text-align: right;
+}
+
+nav li {
+    display: inline;
+    justify-content: right;
+    margin: 5px;
+}
+
+nav a:link {
+    color: white;
+    text-decoration: none;
+}
